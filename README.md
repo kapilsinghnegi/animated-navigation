@@ -1,1 +1,1 @@
-# animated-navigation
+# Animated Navigation
